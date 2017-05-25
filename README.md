@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Nathaniel Jenkins
 
-I like to:
+I like to: Spend time with my family
 
-I'm learning:
+I'm learning: HTML, CSS, Git Commands, and soon Javascriptl
 
 ```
 
